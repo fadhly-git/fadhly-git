@@ -19,6 +19,6 @@ I'm a passionate software developer with a love for open-source projects and inn
 
 
 ## 📫 Connect with Me
-- Instagram: @psikopeddd
+- Instagram: @psikopeddd(https://www.instagram.com/psikopedd/)
 
 Thank you for visiting my profile!
