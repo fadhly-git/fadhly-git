@@ -13,7 +13,7 @@ I'm a passionate software developer with a love for open-source projects and inn
 ### Programming Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhly-git&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhly-git&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ### Frameworks
